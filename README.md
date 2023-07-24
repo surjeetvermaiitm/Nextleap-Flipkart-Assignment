@@ -1,6 +1,6 @@
 # Flipkart Assignment
 
-Hosted App Link:
+Hosted App Link: https://surjeet-flipkart-page.netlify.app/
 
 ### steps to run the code :
 
